@@ -31,6 +31,8 @@ In presentation extra task form me)
 
 ## Screenshots : 
 
+
+
 ![Screenshot (15)](https://github.com/Nursultan15/Situational_Final/assets/73534336/b567f8b2-aa2c-42a4-a2ba-78837d0936de)
 ![Screenshot (16)](https://github.com/Nursultan15/Situational_Final/assets/73534336/abc4df1d-d6ba-42a1-9450-698f5306ff92)
 ![Screenshot (17)](https://github.com/Nursultan15/Situational_Final/assets/73534336/7b60e86e-9d0c-4fbb-beed-30f7eb25c925)
