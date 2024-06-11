@@ -19,5 +19,9 @@ Greetings and welcome to the machine learning introduction Presentation! Specifi
 ## Overview:
 With the use of advanced technology, computers can now learn from data and make judgments or predictions without needing to be explicitly programmed thanks to machine learning. With an emphasis on variables, loops, and functions—the fundamental building blocks of any machine learning workflow—this talk seeks to introduce the fundamental ideas of machine learning.
 
+## Examples
+Examples from real-world situations are given to show how machine learning ideas are used in real-world situations. To illustrate how variables, loops, and functions are implemented in Python for machine learning tasks, snippets of code and demos are given.
+
+
 
 
