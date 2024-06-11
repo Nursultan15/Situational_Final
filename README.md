@@ -22,6 +22,13 @@ With the use of advanced technology, computers can now learn from data and make 
 ## Examples
 Examples from real-world situations are given to show how machine learning ideas are used in real-world situations. To illustrate how variables, loops, and functions are implemented in Python for machine learning tasks, snippets of code and demos are given.
 
+## Quizzes:
+Throughout the lecture, there are quizzes to gauge how well the audience has understood the subject matter. These interactive tests promote involvement and support the reinforcement of learning goals.
+
+## Tasks :
+In presentation extra task form me)
+
+
 
 
 
