@@ -1,4 +1,4 @@
-# Situational_Final
+# Situational_Final_Teaching
 Hello . My presentation will help novice programmers learn Machine Learning.
 
 
